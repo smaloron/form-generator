@@ -1,0 +1,15 @@
+{
+    "name": "seb/db-generator",
+    "authors": [
+        {
+            "name": "seb",
+            "email": "contact@smaloron.eu"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "dbGenerator\\": "src/"
+        }
+    }
+}
